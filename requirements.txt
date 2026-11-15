@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+matplotlib
+joblib
+requests
+pyarrow
+shapely
+streamlit
+folium
+streamlit-folium
+altair

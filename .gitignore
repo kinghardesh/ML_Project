@@ -1,0 +1,18 @@
+# environments / tooling
+.venv/
+venv/
+__pycache__/
+*.pyc
+.claude/
+.vscode/
+
+# large or re-downloadable data
+data/raw/av2/
+data/processed/av2/*
+!data/processed/av2/xgb_model.joblib
+data/processed/trajectories.csv.gz
+data/processed/uploads/
+
+# logs
+reports/run_log.txt
+*.log

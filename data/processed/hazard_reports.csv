@@ -1,0 +1,501 @@
+city,country,id,category,lat,lon,severity,status,date,simulated
+Chicago,USA,1,Missing signage,41.931411188152794,-87.74687450444712,Low,Verified,2026-09-29,True
+New York,USA,2,Dangerous intersection,40.70520470438947,-73.83604513862228,Medium,Submitted,2026-11-02,True
+Chicago,USA,3,Missing signage,41.91736732526846,-87.73649169348668,Low,Verified,2026-08-04,True
+New York,USA,4,Damaged road,40.75372900155421,-73.96911941962748,Medium,Under review,2026-10-07,True
+Great Britain,United Kingdom,5,Pothole,51.59956411837481,-0.32086127506184103,Medium,Verified,2026-07-24,True
+Great Britain,United Kingdom,6,Pothole,52.905679231877805,-0.6573748632684734,Medium,Resolved,2026-09-24,True
+Kolkata,India,7,Pothole,22.59738038553122,88.37748801283318,High,Under review,2026-07-26,True
+Great Britain,United Kingdom,8,Missing signage,51.811422968329595,-2.5086002764513906,Medium,Verified,2026-09-06,True
+Great Britain,United Kingdom,9,Damaged road,50.41178379019706,-4.213264051918159,High,Verified,2026-09-19,True
+Chicago,USA,10,Dangerous intersection,41.89942225826136,-87.61898594649367,Low,Submitted,2026-08-22,True
+Chicago,USA,11,Damaged road,41.78744292450021,-87.6161358468451,Medium,Resolved,2026-09-08,True
+Great Britain,United Kingdom,12,Pothole,55.002040179558776,-1.638164115590401,Low,Verified,2026-11-03,True
+Great Britain,United Kingdom,13,Pothole,51.514931806878806,-0.05726090826200491,Medium,Resolved,2026-10-30,True
+Chicago,USA,14,Damaged road,41.88279014945483,-87.67623096925304,High,Submitted,2026-09-21,True
+New York,USA,15,Missing signage,40.71437879063933,-73.93223175537126,Low,Verified,2026-07-20,True
+Chicago,USA,16,Pothole,41.99134197314235,-87.67859678445876,Low,Under review,2026-10-19,True
+Great Britain,United Kingdom,17,Missing signage,51.474444227502,-0.04201184787720926,High,Submitted,2026-10-17,True
+Great Britain,United Kingdom,18,Dangerous intersection,50.39645840282802,-4.7930477769441975,Medium,Rejected,2026-07-19,True
+Great Britain,United Kingdom,19,Missing signage,53.103346874046814,-0.9402759123936032,Medium,Verified,2026-08-27,True
+Great Britain,United Kingdom,20,Missing signage,52.52388464023769,-2.079619021380294,Medium,Resolved,2026-11-07,True
+Great Britain,United Kingdom,21,Damaged road,52.67614073497472,0.9451375535597271,Medium,Verified,2026-09-14,True
+Chicago,USA,22,Damaged road,41.97628896872346,-87.68731084817514,High,Under review,2026-10-05,True
+Chicago,USA,23,Dangerous intersection,42.01227983614836,-87.69822856231436,High,Under review,2026-09-19,True
+Chicago,USA,24,Pothole,41.962663265915076,-87.71235950519906,Low,Submitted,2026-10-13,True
+Great Britain,United Kingdom,25,Pothole,50.9130968148523,-1.3541685823224725,Low,Verified,2026-10-22,True
+Chicago,USA,26,Missing signage,41.87312945300914,-87.67499213123183,Medium,Verified,2026-10-28,True
+Chicago,USA,27,Pothole,41.88594676586392,-87.73794786835292,Low,Verified,2026-10-02,True
+New York,USA,28,Missing signage,40.82661559080345,-73.8885674118736,Medium,Resolved,2026-10-11,True
+New York,USA,29,Missing signage,40.82129025254886,-73.89307123605347,Low,Under review,2026-08-15,True
+Chicago,USA,30,Pothole,41.90080641394411,-87.6482450463711,Medium,Resolved,2026-10-20,True
+Chicago,USA,31,Pothole,41.71232144966342,-87.68174939816116,Medium,Verified,2026-08-06,True
+Chicago,USA,32,Damaged road,41.913834823458046,-87.74747434534328,Medium,Submitted,2026-09-01,True
+Great Britain,United Kingdom,33,Pothole,53.77437210028267,-1.9371073182853358,Medium,Verified,2026-10-08,True
+New York,USA,34,Damaged road,40.58673421481167,-73.93595897920041,Low,Verified,2026-09-07,True
+Chicago,USA,35,Missing signage,41.707832473964395,-87.63946036948572,Medium,Rejected,2026-08-29,True
+Great Britain,United Kingdom,36,Missing signage,52.50831319705483,-1.9036990454856002,High,Under review,2026-08-24,True
+Ahmedabad,India,37,Damaged road,23.036329416994047,72.58419586670084,Low,Submitted,2026-11-04,True
+Great Britain,United Kingdom,38,Pothole,51.77916716383229,-1.2657318576780274,High,Submitted,2026-07-16,True
+Great Britain,United Kingdom,39,Missing signage,53.28135548287366,-3.5550411194410585,Medium,Under review,2026-09-15,True
+New York,USA,40,Missing signage,40.86422542551131,-73.91968078423592,Low,Under review,2026-09-28,True
+Chicago,USA,41,Missing signage,41.96837790285113,-87.68901778908747,Medium,Verified,2026-09-29,True
+New York,USA,42,Dangerous intersection,40.633355303844155,-73.94903392963707,Medium,Submitted,2026-08-03,True
+New York,USA,43,Pothole,40.70616406003925,-73.91672870872256,Medium,Submitted,2026-07-16,True
+New York,USA,44,Damaged road,40.756389797557105,-73.96000039238666,Low,Verified,2026-08-22,True
+Ahmedabad,India,45,Missing signage,23.05536961699852,72.50998805482423,High,Submitted,2026-08-04,True
+Great Britain,United Kingdom,46,Damaged road,51.55735252491974,-0.07832074332292227,High,Submitted,2026-08-11,True
+New York,USA,47,Missing signage,40.855409899537385,-73.85530790231205,Medium,Submitted,2026-10-26,True
+Great Britain,United Kingdom,48,Dangerous intersection,51.44498623281795,-0.01991864487720252,Medium,Verified,2026-08-22,True
+New York,USA,49,Damaged road,40.65007771941339,-73.91215223410777,Medium,Verified,2026-09-04,True
+Great Britain,United Kingdom,50,Damaged road,52.22132626967418,-2.1518988693034014,Medium,Rejected,2026-11-07,True
+Mumbai,India,51,Dangerous intersection,19.072660973489583,72.8652695702148,Medium,Submitted,2026-08-04,True
+Great Britain,United Kingdom,52,Damaged road,51.58937381443315,-0.6678475896999237,High,Verified,2026-07-23,True
+Chicago,USA,53,Dangerous intersection,41.72191564332103,-87.60220828460577,Low,Submitted,2026-09-27,True
+Chicago,USA,54,Missing signage,41.79338660916506,-87.67022183398223,High,Resolved,2026-08-31,True
+Chicago,USA,55,Pothole,41.82414888975336,-87.61718757599047,Low,Verified,2026-10-10,True
+Chicago,USA,56,Damaged road,41.959503440172305,-87.75727703235962,High,Submitted,2026-07-19,True
+New York,USA,57,Dangerous intersection,40.82809399232384,-73.91440350087949,Low,Submitted,2026-11-05,True
+Great Britain,United Kingdom,58,Missing signage,53.15744748178272,-2.933785642592477,Medium,Rejected,2026-07-24,True
+New York,USA,59,Pothole,40.65397757897306,-73.90099526996157,High,Under review,2026-10-08,True
+Great Britain,United Kingdom,60,Damaged road,52.4542649501721,-1.4764881585768486,Medium,Rejected,2026-11-07,True
+Great Britain,United Kingdom,61,Damaged road,53.21402648952429,-2.65558594935967,Low,Submitted,2026-10-17,True
+New York,USA,62,Dangerous intersection,40.64702900865478,-73.95619350873174,Medium,Under review,2026-10-11,True
+New York,USA,63,Dangerous intersection,40.75966787094324,-73.95328922753814,Medium,Verified,2026-09-23,True
+New York,USA,64,Pothole,40.747507220559335,-73.86297677741814,Medium,Submitted,2026-09-17,True
+New York,USA,65,Dangerous intersection,40.665930312658354,-73.72956332823453,Medium,Verified,2026-11-10,True
+Chicago,USA,66,Dangerous intersection,41.800491841896424,-87.69046577371509,High,Rejected,2026-08-03,True
+Great Britain,United Kingdom,67,Pothole,51.30722863291915,-0.758006305559851,Low,Submitted,2026-09-01,True
+Chicago,USA,68,Damaged road,41.73606900615397,-87.64494102633653,Medium,Submitted,2026-10-26,True
+Great Britain,United Kingdom,69,Dangerous intersection,52.21965379816064,-0.904386197935203,Medium,Submitted,2026-10-25,True
+New York,USA,70,Missing signage,40.62200231815524,-73.98002915310096,Medium,Verified,2026-09-02,True
+Chicago,USA,71,Missing signage,41.75537064221486,-87.69155818112402,Low,Under review,2026-08-14,True
+Chicago,USA,72,Dangerous intersection,41.90035526285033,-87.62800500405648,Medium,Verified,2026-10-17,True
+Great Britain,United Kingdom,73,Missing signage,51.33631032260524,0.6704051885485656,Medium,Rejected,2026-10-02,True
+Chicago,USA,74,Dangerous intersection,41.95346775503883,-87.78642246413615,High,Submitted,2026-09-26,True
+New York,USA,75,Pothole,40.62059858179783,-74.12757208052767,Medium,Rejected,2026-08-06,True
+Great Britain,United Kingdom,76,Pothole,51.23620537622117,-0.3214343065902186,Medium,Resolved,2026-10-07,True
+Great Britain,United Kingdom,77,Missing signage,53.2636530226511,-2.887965503476828,Medium,Verified,2026-09-11,True
+Great Britain,United Kingdom,78,Missing signage,51.61328147159476,-0.27537070123846696,High,Under review,2026-10-29,True
+Great Britain,United Kingdom,79,Pothole,52.55338418797793,-1.9319855097358716,Low,Resolved,2026-10-11,True
+New York,USA,80,Missing signage,40.775787606553315,-73.93394872629345,Medium,Submitted,2026-07-29,True
+New York,USA,81,Missing signage,40.78678118417821,-73.95182930201955,Medium,Submitted,2026-09-25,True
+Chicago,USA,82,Dangerous intersection,41.82581112611116,-87.69455013638749,Medium,Verified,2026-08-24,True
+New York,USA,83,Damaged road,40.679510485662696,-73.75528321636783,Low,Submitted,2026-10-23,True
+Great Britain,United Kingdom,84,Dangerous intersection,51.1617128910568,-2.700472384777302,Medium,Submitted,2026-07-25,True
+Chicago,USA,85,Pothole,41.80799814790846,-87.65482145712741,Low,Under review,2026-08-14,True
+Great Britain,United Kingdom,86,Damaged road,51.40531228252033,-1.4745714521499247,Low,Under review,2026-10-22,True
+Great Britain,United Kingdom,87,Damaged road,51.734048969098104,-3.1429043099079985,High,Verified,2026-09-21,True
+New York,USA,88,Damaged road,40.82297934732321,-73.89189443684542,High,Resolved,2026-08-27,True
+Great Britain,United Kingdom,89,Damaged road,51.36471723944068,0.5188098279136698,Medium,Rejected,2026-08-04,True
+Chicago,USA,90,Dangerous intersection,41.659140797772594,-87.55959546772694,Medium,Verified,2026-09-06,True
+New York,USA,91,Pothole,40.69624973058022,-73.98671731913544,Low,Submitted,2026-10-25,True
+Chicago,USA,92,Damaged road,41.824336862718845,-87.69673165150273,High,Under review,2026-07-29,True
+Great Britain,United Kingdom,93,Dangerous intersection,51.57373564979216,-0.06474383741547332,Medium,Rejected,2026-09-30,True
+New York,USA,94,Pothole,40.685728176298525,-73.72807768106837,Medium,Submitted,2026-10-21,True
+Great Britain,United Kingdom,95,Pothole,51.77056277851774,0.09547798788732556,Low,Resolved,2026-10-04,True
+Great Britain,United Kingdom,96,Missing signage,51.5225661829318,-0.375033478756829,Medium,Verified,2026-10-16,True
+New York,USA,97,Dangerous intersection,40.63021490802741,-73.91841023467342,Medium,Resolved,2026-10-15,True
+Chicago,USA,98,Dangerous intersection,41.699536769387905,-87.62396238794959,High,Resolved,2026-09-25,True
+Great Britain,United Kingdom,99,Damaged road,52.485422909094034,-1.9901539554221461,Low,Verified,2026-09-25,True
+Great Britain,United Kingdom,100,Pothole,51.468931822713834,-0.15634022319693947,High,Resolved,2026-07-16,True
+New York,USA,101,Pothole,40.863223012995114,-73.9007045507403,Medium,Resolved,2026-10-28,True
+New York,USA,102,Missing signage,40.631730217453935,-73.94688998180807,High,Resolved,2026-10-18,True
+Chicago,USA,103,Damaged road,41.75889268943031,-87.62729437013391,Low,Resolved,2026-10-21,True
+Chicago,USA,104,Dangerous intersection,41.90244932807134,-87.72650915854867,High,Submitted,2026-09-13,True
+Great Britain,United Kingdom,105,Pothole,51.52927718283036,-0.2933328141779555,Medium,Under review,2026-07-18,True
+Great Britain,United Kingdom,106,Damaged road,53.78961722524554,-2.7494274788328266,Low,Rejected,2026-10-10,True
+Great Britain,United Kingdom,107,Damaged road,50.95979632496708,-0.1197248767387925,Low,Submitted,2026-10-07,True
+Great Britain,United Kingdom,108,Missing signage,51.29889369603666,-0.7154071434604807,Low,Under review,2026-11-07,True
+New York,USA,109,Damaged road,40.75435994972316,-73.83344093152782,High,Resolved,2026-09-06,True
+New York,USA,110,Pothole,40.81073344610447,-73.94930295507865,Medium,Resolved,2026-08-04,True
+Great Britain,United Kingdom,111,Dangerous intersection,51.46336689213933,-2.5707838410197708,Medium,Resolved,2026-10-20,True
+New York,USA,112,Pothole,40.73413378953902,-73.7663131364692,Medium,Resolved,2026-09-21,True
+Great Britain,United Kingdom,113,Pothole,50.93708596365556,0.23827785400382295,Medium,Rejected,2026-09-09,True
+Chicago,USA,114,Missing signage,41.792190521582796,-87.79937025487042,Medium,Submitted,2026-09-30,True
+Great Britain,United Kingdom,115,Dangerous intersection,51.89545209341165,-0.4763883657693214,Low,Verified,2026-08-04,True
+Great Britain,United Kingdom,116,Pothole,53.45040356783405,-2.3537591728770293,Medium,Under review,2026-07-29,True
+New York,USA,117,Dangerous intersection,40.72724192048347,-74.00103595714924,Medium,Under review,2026-08-18,True
+New York,USA,118,Damaged road,40.82908357653263,-73.87950710735592,High,Resolved,2026-08-27,True
+Mumbai,India,119,Missing signage,19.048961770792125,72.86195335510172,Low,Rejected,2026-11-06,True
+Great Britain,United Kingdom,120,Missing signage,58.240762673670616,-6.38895736875437,Medium,Verified,2026-07-21,True
+Great Britain,United Kingdom,121,Pothole,53.82148304949769,-3.0490262531312666,High,Submitted,2026-07-24,True
+Great Britain,United Kingdom,122,Damaged road,53.78234924478728,-1.7511290185297097,Medium,Under review,2026-10-24,True
+Mumbai,India,123,Missing signage,18.998976686967623,72.85204376499784,High,Rejected,2026-09-28,True
+New York,USA,124,Missing signage,40.843282982735104,-73.88734297635,High,Verified,2026-08-12,True
+Great Britain,United Kingdom,125,Damaged road,51.37281432613359,-1.6805802505775715,Medium,Submitted,2026-11-05,True
+Chicago,USA,126,Pothole,41.7912896411547,-87.74110406117612,Low,Submitted,2026-10-27,True
+Chicago,USA,127,Missing signage,41.945347907801484,-87.64948385185532,Low,Submitted,2026-08-23,True
+Chicago,USA,128,Missing signage,41.93138508482016,-87.76806726572673,Medium,Submitted,2026-08-12,True
+Great Britain,United Kingdom,129,Pothole,51.32525551822707,-0.23249572053516748,High,Resolved,2026-10-13,True
+New York,USA,130,Pothole,40.64375054041927,-73.91983833294633,High,Verified,2026-09-20,True
+Chicago,USA,131,Dangerous intersection,41.76601245865124,-87.67419621822914,Medium,Verified,2026-07-27,True
+Great Britain,United Kingdom,132,Dangerous intersection,51.525727419779834,-0.024972430730036292,Medium,Resolved,2026-07-28,True
+New York,USA,133,Pothole,40.649656324115114,-73.97556162304667,Medium,Under review,2026-08-16,True
+Chicago,USA,134,Missing signage,41.97635898320995,-87.78988357975336,Medium,Resolved,2026-09-30,True
+Chicago,USA,135,Missing signage,41.769307656777876,-87.62694786999529,Low,Resolved,2026-10-06,True
+Chicago,USA,136,Missing signage,41.9499756144384,-87.74203303443225,High,Verified,2026-08-07,True
+Chicago,USA,137,Pothole,41.79253085891595,-87.742108389735,High,Submitted,2026-08-26,True
+New York,USA,138,Dangerous intersection,40.641006491685005,-74.01268921058278,Medium,Rejected,2026-10-02,True
+Chicago,USA,139,Pothole,41.888550732601836,-87.68120055703382,Low,Under review,2026-07-16,True
+Chicago,USA,140,Damaged road,41.90626609280959,-87.72628519840197,Low,Verified,2026-11-03,True
+New York,USA,141,Missing signage,40.651973377129806,-73.90418703893381,High,Submitted,2026-10-10,True
+New York,USA,142,Missing signage,40.64441017285716,-73.9261698469469,Medium,Submitted,2026-08-31,True
+Great Britain,United Kingdom,143,Dangerous intersection,52.59414923887698,-1.160418634977712,High,Submitted,2026-10-12,True
+New York,USA,144,Dangerous intersection,40.749797155976616,-73.75680671117284,High,Submitted,2026-10-16,True
+Chicago,USA,145,Pothole,41.76534055220537,-87.5660860802271,Medium,Rejected,2026-08-10,True
+New York,USA,146,Pothole,40.828527420180706,-73.90759033462339,Medium,Submitted,2026-08-13,True
+Great Britain,United Kingdom,147,Dangerous intersection,52.47857948392219,-1.8796036205920952,Medium,Submitted,2026-10-19,True
+Great Britain,United Kingdom,148,Dangerous intersection,50.70199551921374,-3.389383632237279,High,Rejected,2026-08-11,True
+New York,USA,149,Missing signage,40.66606966007432,-73.89196829631268,Medium,Submitted,2026-07-23,True
+Great Britain,United Kingdom,150,Missing signage,53.440948521078774,-2.9081112420116266,High,Resolved,2026-09-28,True
+New York,USA,151,Pothole,40.86596989345778,-73.88238063857858,High,Resolved,2026-08-03,True
+Chicago,USA,152,Dangerous intersection,41.8164855087115,-87.61701354297195,Medium,Rejected,2026-10-22,True
+Great Britain,United Kingdom,153,Pothole,52.531319140673745,-1.9302424867005281,Medium,Verified,2026-08-06,True
+Great Britain,United Kingdom,154,Pothole,51.56179231503486,0.15597416391174176,Medium,Submitted,2026-08-07,True
+Great Britain,United Kingdom,155,Dangerous intersection,53.40212074751744,-0.8941443450578412,High,Rejected,2026-08-04,True
+Chicago,USA,156,Damaged road,41.95084871687131,-87.83656511074696,Low,Resolved,2026-07-25,True
+Chicago,USA,157,Dangerous intersection,41.72547465572636,-87.57563955156031,Low,Submitted,2026-09-21,True
+Great Britain,United Kingdom,158,Pothole,52.19383871904168,-2.221292581647113,High,Submitted,2026-07-23,True
+Great Britain,United Kingdom,159,Damaged road,51.33343029857872,-0.27087785704207007,High,Resolved,2026-09-11,True
+New York,USA,160,Damaged road,40.72673610729649,-73.8208484861467,Medium,Verified,2026-08-12,True
+Great Britain,United Kingdom,161,Pothole,51.5408946537957,-0.19664433319714397,Low,Resolved,2026-10-17,True
+Great Britain,United Kingdom,162,Damaged road,51.481943098835906,-0.11217009441623883,Medium,Under review,2026-10-19,True
+Great Britain,United Kingdom,163,Pothole,53.17856497264765,-4.217169609503134,High,Submitted,2026-07-31,True
+Great Britain,United Kingdom,164,Missing signage,51.89892875579156,0.8647345865881041,Low,Verified,2026-08-01,True
+New York,USA,165,Pothole,40.82256343409752,-73.88494969246446,Low,Submitted,2026-07-18,True
+New York,USA,166,Dangerous intersection,40.6081765425988,-73.95896474722429,High,Under review,2026-09-26,True
+Great Britain,United Kingdom,167,Pothole,51.626013642491024,0.022426936386595347,Medium,Under review,2026-08-06,True
+Chicago,USA,168,Pothole,41.922365752645284,-87.68743542742745,Low,Verified,2026-09-14,True
+Great Britain,United Kingdom,169,Damaged road,52.7492277988351,-0.18456209848887714,Medium,Verified,2026-10-07,True
+Great Britain,United Kingdom,170,Missing signage,55.88577675315517,-4.256999194297145,High,Resolved,2026-10-13,True
+Great Britain,United Kingdom,171,Missing signage,56.46775310747421,-2.9346571305145224,High,Resolved,2026-08-14,True
+New York,USA,172,Dangerous intersection,40.88679345789159,-73.89526117064304,Low,Submitted,2026-08-14,True
+Chicago,USA,173,Missing signage,41.92733003434101,-87.73017756474668,High,Submitted,2026-09-23,True
+Great Britain,United Kingdom,174,Damaged road,51.494153388276374,-3.166222452467222,Medium,Verified,2026-07-19,True
+Great Britain,United Kingdom,175,Dangerous intersection,51.49120872168348,-0.1791662967965362,Low,Under review,2026-08-24,True
+Great Britain,United Kingdom,176,Dangerous intersection,50.838920802354444,-0.27581568955671826,Medium,Rejected,2026-09-29,True
+Great Britain,United Kingdom,177,Missing signage,51.33483615061879,-0.43474116063238943,Medium,Submitted,2026-08-04,True
+Great Britain,United Kingdom,178,Pothole,51.57303777665498,0.445138212351239,High,Submitted,2026-10-20,True
+Great Britain,United Kingdom,179,Missing signage,52.147305642785625,-0.4856459747888853,High,Under review,2026-08-22,True
+Chicago,USA,180,Pothole,41.97512997959711,-87.71720317724461,High,Verified,2026-09-16,True
+Chicago,USA,181,Missing signage,41.86336637695898,-87.686349385981,High,Verified,2026-10-25,True
+Great Britain,United Kingdom,182,Damaged road,50.6844858213833,-2.1095077427081175,Medium,Submitted,2026-10-21,True
+Chicago,USA,183,Pothole,41.86567285046356,-87.72015328740409,Medium,Rejected,2026-10-08,True
+Great Britain,United Kingdom,184,Missing signage,50.834206266765925,-1.0717680642797107,Low,Rejected,2026-10-26,True
+Great Britain,United Kingdom,185,Pothole,53.5922942495827,-1.3290076771820212,Medium,Resolved,2026-10-21,True
+Great Britain,United Kingdom,186,Pothole,52.69398283961845,1.6872092290748946,Medium,Submitted,2026-09-17,True
+Pune,India,187,Missing signage,18.508869098301457,73.87692905858225,Low,Submitted,2026-11-10,True
+Great Britain,United Kingdom,188,Damaged road,52.41515061235554,-1.970841118587542,Low,Verified,2026-09-20,True
+Great Britain,United Kingdom,189,Missing signage,52.24624937891148,-0.8820417061764642,Medium,Verified,2026-10-29,True
+Great Britain,United Kingdom,190,Dangerous intersection,53.32340627803211,-0.42039645080099475,Low,Resolved,2026-11-11,True
+Great Britain,United Kingdom,191,Damaged road,54.551986682549675,-1.2439709907233705,Medium,Submitted,2026-08-15,True
+Great Britain,United Kingdom,192,Damaged road,52.94678877598947,-1.1233102079505457,Medium,Submitted,2026-07-21,True
+Great Britain,United Kingdom,193,Dangerous intersection,52.58817656668104,-0.2395794628492974,Low,Rejected,2026-10-15,True
+Great Britain,United Kingdom,194,Pothole,52.76746773150692,-0.2585353048527528,High,Rejected,2026-07-16,True
+Great Britain,United Kingdom,195,Damaged road,51.25802943916819,0.5313260644413096,Medium,Under review,2026-08-25,True
+New York,USA,196,Dangerous intersection,40.58129787063008,-73.96012069834535,Low,Resolved,2026-08-06,True
+Great Britain,United Kingdom,197,Pothole,52.75973667445837,-0.36260906064353765,High,Resolved,2026-08-20,True
+Great Britain,United Kingdom,198,Missing signage,50.77583476631885,0.29788623964853705,Medium,Submitted,2026-10-07,True
+Chicago,USA,199,Dangerous intersection,41.95422279518886,-87.73261988895035,Low,Resolved,2026-10-05,True
+Chicago,USA,200,Dangerous intersection,41.77844460311983,-87.74737136433994,High,Under review,2026-08-28,True
+Great Britain,United Kingdom,201,Pothole,51.18462013162303,-3.9822388785738925,Low,Under review,2026-09-02,True
+Chicago,USA,202,Missing signage,41.6612388415509,-87.58990455241344,Medium,Verified,2026-07-25,True
+Chicago,USA,203,Missing signage,41.885868424262036,-87.7358345087505,Medium,Under review,2026-07-22,True
+Chicago,USA,204,Missing signage,41.76535611454708,-87.62975322561643,High,Resolved,2026-08-08,True
+Chicago,USA,205,Damaged road,41.99625751140949,-87.7653023045857,High,Submitted,2026-11-01,True
+Great Britain,United Kingdom,206,Pothole,51.191674471634286,-0.6013866853496211,High,Submitted,2026-07-19,True
+Great Britain,United Kingdom,207,Missing signage,52.60859341969041,-1.6373280456849253,High,Submitted,2026-10-04,True
+New York,USA,208,Damaged road,40.57063880181137,-74.10994544848667,Low,Resolved,2026-08-16,True
+Great Britain,United Kingdom,209,Dangerous intersection,53.03879323815671,0.015344773153639453,Low,Under review,2026-09-30,True
+Chicago,USA,210,Damaged road,41.881673741429765,-87.62437419649106,Low,Submitted,2026-10-05,True
+New York,USA,211,Dangerous intersection,40.72864615403668,-73.87125385568083,Medium,Rejected,2026-09-11,True
+Great Britain,United Kingdom,212,Missing signage,54.781830734648366,-3.199863362970738,Low,Submitted,2026-10-10,True
+Great Britain,United Kingdom,213,Pothole,51.634469691054214,-0.7819687160075345,Low,Submitted,2026-10-22,True
+Great Britain,United Kingdom,214,Dangerous intersection,53.343750152067585,-1.2766628633900186,Low,Verified,2026-10-15,True
+Great Britain,United Kingdom,215,Damaged road,51.7239671156949,-0.47775994963770446,Medium,Rejected,2026-10-18,True
+Chicago,USA,216,Dangerous intersection,41.88779960832316,-87.7534379841955,Medium,Rejected,2026-07-19,True
+Great Britain,United Kingdom,217,Dangerous intersection,53.3107168088452,-4.6550476299183465,Low,Rejected,2026-11-01,True
+New York,USA,218,Missing signage,40.87059746685534,-73.9051580151992,Low,Under review,2026-09-26,True
+Mumbai,India,219,Missing signage,19.056955702224222,72.84194538809479,High,Under review,2026-09-08,True
+Chicago,USA,220,Pothole,41.895322209935856,-87.62386104890415,Medium,Submitted,2026-09-02,True
+Chicago,USA,221,Pothole,41.84275005348793,-87.6954217414115,Low,Resolved,2026-10-27,True
+New York,USA,222,Pothole,40.762281272758244,-73.91234095981183,Medium,Resolved,2026-08-13,True
+New York,USA,223,Pothole,40.74666128856974,-73.94385617843311,Medium,Submitted,2026-09-24,True
+Great Britain,United Kingdom,224,Damaged road,55.899157729812224,-3.224666155178941,Medium,Under review,2026-11-08,True
+Hyderabad,India,225,Missing signage,17.395802796017023,78.52020792814899,Low,Resolved,2026-08-01,True
+Chicago,USA,226,Dangerous intersection,41.871038790792106,-87.63988588315125,Low,Under review,2026-10-10,True
+New York,USA,227,Damaged road,40.64709984825555,-73.95009275617133,High,Resolved,2026-08-10,True
+Chicago,USA,228,Dangerous intersection,41.9052499947999,-87.72463412098722,Low,Under review,2026-07-28,True
+Chicago,USA,229,Missing signage,41.88065505909499,-87.74222867703575,Low,Rejected,2026-09-12,True
+Great Britain,United Kingdom,230,Missing signage,51.46242423640418,-0.18622262260232308,Low,Submitted,2026-09-20,True
+Ahmedabad,India,231,Pothole,22.996237815037,72.55074230130184,Medium,Verified,2026-11-02,True
+New York,USA,232,Pothole,40.683438205213974,-73.99544978822566,High,Rejected,2026-10-08,True
+Chicago,USA,233,Damaged road,41.883015799046206,-87.67134405296696,High,Resolved,2026-10-25,True
+Great Britain,United Kingdom,234,Pothole,55.027416312368274,-1.4659729722493582,High,Resolved,2026-08-27,True
+Great Britain,United Kingdom,235,Missing signage,52.5472172183678,-1.934489628270031,High,Under review,2026-10-11,True
+Mumbai,India,236,Damaged road,19.052224480063614,72.88786999115426,High,Verified,2026-10-18,True
+Great Britain,United Kingdom,237,Pothole,52.67677391785028,-2.4359828266511987,High,Verified,2026-09-02,True
+New York,USA,238,Dangerous intersection,40.82173304789383,-73.82738373674887,Medium,Submitted,2026-08-14,True
+Great Britain,United Kingdom,239,Pothole,51.39280899534146,-0.09763232506991679,Low,Resolved,2026-10-26,True
+Great Britain,United Kingdom,240,Damaged road,51.62976242961929,-0.993251961789742,High,Submitted,2026-08-25,True
+Great Britain,United Kingdom,241,Missing signage,51.07229594580421,-0.30847904195359765,Low,Submitted,2026-09-06,True
+Great Britain,United Kingdom,242,Dangerous intersection,55.66561655910216,-3.9104224160559324,Medium,Submitted,2026-07-28,True
+Great Britain,United Kingdom,243,Damaged road,50.61451132729179,-2.455637463087174,High,Rejected,2026-07-21,True
+New York,USA,244,Dangerous intersection,40.6274620420467,-73.92982929735811,Medium,Rejected,2026-10-20,True
+Chicago,USA,245,Missing signage,41.79314277693867,-87.70621875154897,Low,Under review,2026-11-07,True
+Chicago,USA,246,Damaged road,41.943475453663964,-87.66065903290773,Medium,Under review,2026-10-26,True
+Great Britain,United Kingdom,247,Missing signage,51.511535797918796,-0.11870679888394872,High,Submitted,2026-09-29,True
+Chicago,USA,248,Dangerous intersection,41.851391691653625,-87.62679721280294,Medium,Submitted,2026-08-21,True
+Chicago,USA,249,Damaged road,41.910931049372735,-87.63168470837722,High,Submitted,2026-07-18,True
+New York,USA,250,Damaged road,40.67843177394076,-73.7466231103258,Low,Rejected,2026-09-07,True
+Great Britain,United Kingdom,251,Pothole,51.36861330028318,-0.39545219352152355,High,Under review,2026-09-09,True
+Chicago,USA,252,Missing signage,41.9274364945853,-87.71113044432788,Medium,Submitted,2026-07-25,True
+New York,USA,253,Pothole,40.6829267056728,-73.92220119012613,Medium,Submitted,2026-07-19,True
+Great Britain,United Kingdom,254,Missing signage,52.497536230741154,1.2083206490393683,Medium,Submitted,2026-07-23,True
+Great Britain,United Kingdom,255,Damaged road,53.1920912626176,-2.5261679640215497,Medium,Submitted,2026-10-22,True
+New York,USA,256,Pothole,40.72353805180526,-73.9761457843956,Medium,Under review,2026-07-26,True
+Great Britain,United Kingdom,257,Pothole,53.86704082588737,-1.915266982000649,Medium,Resolved,2026-10-02,True
+Chicago,USA,258,Pothole,41.97550974077285,-87.72884219069925,Medium,Rejected,2026-11-08,True
+Chennai,India,259,Damaged road,13.039182293417946,80.23664678630772,High,Submitted,2026-11-05,True
+Great Britain,United Kingdom,260,Missing signage,52.25451809096739,-0.8378765705792747,Medium,Submitted,2026-08-16,True
+Great Britain,United Kingdom,261,Pothole,53.806440743283446,-1.5353417800954652,High,Under review,2026-09-17,True
+New York,USA,262,Missing signage,40.637732426531834,-74.01430888101525,High,Submitted,2026-08-09,True
+Chicago,USA,263,Missing signage,41.90261142666443,-87.72132318848357,Medium,Resolved,2026-09-19,True
+Great Britain,United Kingdom,264,Missing signage,53.19742478039816,-2.5367496441085398,Medium,Under review,2026-08-24,True
+New York,USA,265,Damaged road,40.77242716321772,-73.95468857406487,Low,Under review,2026-08-24,True
+Chicago,USA,266,Damaged road,41.96775998347703,-87.7302497428233,Medium,Resolved,2026-10-14,True
+Great Britain,United Kingdom,267,Pothole,50.17953584609499,-5.3117838238021875,Medium,Rejected,2026-11-12,True
+Great Britain,United Kingdom,268,Pothole,51.494366965691164,-3.166956895963632,High,Rejected,2026-09-24,True
+Great Britain,United Kingdom,269,Dangerous intersection,52.47733502804823,1.7478010937507482,Medium,Verified,2026-09-05,True
+New York,USA,270,Dangerous intersection,40.87665184057065,-73.90700722305495,Medium,Under review,2026-09-18,True
+Great Britain,United Kingdom,271,Dangerous intersection,52.587633031941806,-1.9837813106021565,High,Submitted,2026-08-29,True
+New York,USA,272,Missing signage,40.72179258483934,-73.87708140724457,Low,Rejected,2026-10-28,True
+Great Britain,United Kingdom,273,Damaged road,53.42203207561753,-2.9404236216095416,Medium,Submitted,2026-08-02,True
+Great Britain,United Kingdom,274,Dangerous intersection,51.563200774726475,0.10971306341014744,Medium,Resolved,2026-08-29,True
+Great Britain,United Kingdom,275,Dangerous intersection,50.7314883805859,-1.6211215130659862,Low,Resolved,2026-08-23,True
+Great Britain,United Kingdom,276,Dangerous intersection,51.21510984185213,-0.4312611767908399,High,Resolved,2026-10-18,True
+New York,USA,277,Missing signage,40.57862483276321,-73.83932209638715,High,Resolved,2026-09-26,True
+Chicago,USA,278,Pothole,41.8926806349712,-87.63753951553163,High,Under review,2026-10-16,True
+Chicago,USA,279,Missing signage,41.866882206415326,-87.64327126937748,Low,Resolved,2026-10-16,True
+Chicago,USA,280,Damaged road,41.92410030424526,-87.75188261899676,High,Under review,2026-08-26,True
+Great Britain,United Kingdom,281,Pothole,53.50840934587442,-1.0640726798462505,Medium,Rejected,2026-09-23,True
+Great Britain,United Kingdom,282,Pothole,51.36483579432314,-0.1521695383837397,Low,Submitted,2026-09-30,True
+Chicago,USA,283,Pothole,41.91655314709691,-87.74973892293401,Medium,Resolved,2026-10-14,True
+Great Britain,United Kingdom,284,Pothole,50.94473692146455,-1.3695676396174246,High,Under review,2026-08-05,True
+Chicago,USA,285,Damaged road,41.788091454047525,-87.58650484171143,High,Verified,2026-10-12,True
+Great Britain,United Kingdom,286,Pothole,51.51099919250863,-0.320799050315889,Medium,Submitted,2026-11-11,True
+New York,USA,287,Pothole,40.64542059539384,-73.92951543000106,High,Submitted,2026-09-07,True
+Great Britain,United Kingdom,288,Damaged road,51.520646722908715,-0.12513142363540464,High,Submitted,2026-07-21,True
+Great Britain,United Kingdom,289,Damaged road,51.52144237054014,-0.04649583695506984,Medium,Submitted,2026-10-11,True
+Chicago,USA,290,Dangerous intersection,41.72169134263195,-87.65833384791367,High,Under review,2026-08-21,True
+Chicago,USA,291,Damaged road,41.99673106409661,-87.7002565612675,Medium,Verified,2026-08-21,True
+Chicago,USA,292,Dangerous intersection,41.778826086863155,-87.60925565411073,Low,Under review,2026-10-06,True
+Chicago,USA,293,Pothole,41.750632810610384,-87.61363678358126,Medium,Verified,2026-07-21,True
+New York,USA,294,Dangerous intersection,40.70032170666932,-73.96189390029765,Medium,Submitted,2026-09-24,True
+Great Britain,United Kingdom,295,Dangerous intersection,53.87260315110742,-3.039120732659433,High,Submitted,2026-07-27,True
+New York,USA,296,Damaged road,40.66983907437329,-73.88264268435685,High,Resolved,2026-07-30,True
+Chicago,USA,297,Damaged road,41.859890258991896,-87.65906469070156,Low,Verified,2026-08-04,True
+Great Britain,United Kingdom,298,Pothole,51.33614389580203,-0.7480608879545972,Low,Resolved,2026-07-22,True
+New York,USA,299,Dangerous intersection,40.74888648908968,-73.9924239723482,Low,Rejected,2026-09-10,True
+Great Britain,United Kingdom,300,Damaged road,51.50556192976174,-0.5626028859134818,High,Under review,2026-10-08,True
+New York,USA,301,Missing signage,40.758495812082664,-73.78446155167312,Low,Submitted,2026-10-31,True
+New York,USA,302,Missing signage,40.822630603583015,-73.86962052732844,High,Submitted,2026-08-25,True
+Bengaluru,India,303,Missing signage,12.995987008510362,77.60650532190948,Low,Under review,2026-09-21,True
+Great Britain,United Kingdom,304,Missing signage,51.50302495494836,-0.11791014065954439,High,Submitted,2026-09-17,True
+Great Britain,United Kingdom,305,Pothole,52.55030805122592,-1.7743809344091845,Medium,Verified,2026-08-28,True
+Great Britain,United Kingdom,306,Missing signage,51.20018088273029,-1.5062954949240144,High,Under review,2026-08-18,True
+Great Britain,United Kingdom,307,Missing signage,51.38041954780653,-2.37424694084607,High,Verified,2026-10-21,True
+Great Britain,United Kingdom,308,Missing signage,51.26754822261602,0.10535467948158256,High,Under review,2026-08-14,True
+Chicago,USA,309,Missing signage,41.93856021322676,-87.65445297711685,Low,Resolved,2026-08-29,True
+Chicago,USA,310,Dangerous intersection,41.71753416979503,-87.68168290052603,High,Verified,2026-09-22,True
+Great Britain,United Kingdom,311,Pothole,54.83576811518658,-1.3668498992541998,Medium,Resolved,2026-08-10,True
+Pune,India,312,Dangerous intersection,18.53331583543176,73.88648438644027,Medium,Under review,2026-10-26,True
+Chicago,USA,313,Missing signage,41.737216979852974,-87.57939057683092,Low,Resolved,2026-10-20,True
+New York,USA,314,Pothole,40.695012307793874,-73.8413200733935,Medium,Resolved,2026-10-28,True
+Great Britain,United Kingdom,315,Damaged road,52.1941062711824,0.13609312162444984,Medium,Submitted,2026-09-14,True
+Chicago,USA,316,Dangerous intersection,41.69540731653191,-87.52568392650646,Low,Submitted,2026-08-05,True
+Chicago,USA,317,Damaged road,41.77439638595218,-87.70733044578637,Medium,Rejected,2026-10-01,True
+Great Britain,United Kingdom,318,Dangerous intersection,51.88836069377354,-0.38874559151181703,Medium,Under review,2026-09-19,True
+Chicago,USA,319,Pothole,41.811525173376076,-87.6850936815089,Medium,Verified,2026-08-23,True
+Great Britain,United Kingdom,320,Damaged road,50.39557042059952,-4.922982275202293,High,Rejected,2026-08-04,True
+Chicago,USA,321,Damaged road,41.99160625566823,-87.69731161553098,Medium,Verified,2026-09-17,True
+New York,USA,322,Pothole,40.83756323014711,-73.9015270291046,High,Submitted,2026-08-04,True
+Great Britain,United Kingdom,323,Pothole,51.55665203194154,0.08823366318155036,Medium,Under review,2026-07-17,True
+Chicago,USA,324,Pothole,42.0114765524596,-87.68202919512837,Low,Verified,2026-08-17,True
+New York,USA,325,Damaged road,40.77126888110326,-73.83391339253137,Medium,Rejected,2026-10-28,True
+New York,USA,326,Dangerous intersection,40.83117317535819,-73.91660748724203,Low,Rejected,2026-10-23,True
+Great Britain,United Kingdom,327,Pothole,54.03452644132579,-2.8175865676153378,High,Submitted,2026-07-20,True
+Chicago,USA,328,Dangerous intersection,41.86611110242332,-87.7047171244854,Medium,Submitted,2026-07-17,True
+New York,USA,329,Pothole,40.72463509887375,-73.99898643714134,Medium,Under review,2026-08-07,True
+Great Britain,United Kingdom,330,Missing signage,51.515019856319725,-0.0633558677575441,High,Under review,2026-09-23,True
+New York,USA,331,Damaged road,40.603971306705276,-74.08312551948552,Medium,Resolved,2026-09-10,True
+Great Britain,United Kingdom,332,Pothole,54.12790954312347,-2.7509559970901942,Medium,Under review,2026-07-19,True
+Great Britain,United Kingdom,333,Pothole,53.407173283809456,-2.974073446723015,Medium,Submitted,2026-11-08,True
+Mumbai,India,334,Dangerous intersection,18.98868590063435,72.91858499090648,High,Under review,2026-11-11,True
+New York,USA,335,Pothole,40.64719693386462,-73.96018767045899,Medium,Submitted,2026-07-25,True
+Great Britain,United Kingdom,336,Missing signage,51.54271129677259,0.14807263141752272,Medium,Resolved,2026-08-13,True
+Great Britain,United Kingdom,337,Pothole,51.5876964861252,-0.07085637862114749,Low,Verified,2026-09-21,True
+Chicago,USA,338,Pothole,41.804851646664225,-87.68402558322069,Low,Resolved,2026-07-30,True
+Great Britain,United Kingdom,339,Missing signage,51.36391088773516,-1.3588552036923593,High,Submitted,2026-07-25,True
+New York,USA,340,Missing signage,40.720587048086855,-73.97835213609305,Low,Rejected,2026-08-04,True
+Chicago,USA,341,Dangerous intersection,41.92867782766743,-87.67444038621174,High,Under review,2026-08-14,True
+Great Britain,United Kingdom,342,Pothole,55.89284419421853,-3.1334047746995703,High,Verified,2026-08-26,True
+New York,USA,343,Dangerous intersection,40.63968459556106,-74.08147339104686,Low,Resolved,2026-08-13,True
+Chicago,USA,344,Dangerous intersection,41.908370656128135,-87.74670195313969,Low,Verified,2026-07-16,True
+Kolkata,India,345,Damaged road,22.564273392428063,88.37332393558191,High,Rejected,2026-10-18,True
+Great Britain,United Kingdom,346,Dangerous intersection,53.427767989773635,-2.9491111190739097,Medium,Submitted,2026-10-14,True
+New York,USA,347,Missing signage,40.844854964702876,-73.90529675512985,High,Resolved,2026-11-08,True
+Great Britain,United Kingdom,348,Damaged road,51.41834949764692,-0.08170095325775238,High,Rejected,2026-09-20,True
+Great Britain,United Kingdom,349,Missing signage,56.624938412158826,-2.9394778918668814,Low,Resolved,2026-08-23,True
+New York,USA,350,Damaged road,40.68195219964146,-73.98154961125535,Medium,Resolved,2026-10-16,True
+Great Britain,United Kingdom,351,Dangerous intersection,51.38927343860456,0.19369848011125665,Low,Submitted,2026-11-04,True
+Chicago,USA,352,Pothole,41.93153973326591,-87.7187188901207,Medium,Submitted,2026-08-08,True
+Great Britain,United Kingdom,353,Damaged road,51.35145413852679,-2.0190171542118933,Low,Rejected,2026-08-12,True
+Great Britain,United Kingdom,354,Missing signage,53.405467655963626,-2.594509906268304,High,Under review,2026-09-07,True
+Chicago,USA,355,Missing signage,41.96732699632311,-87.77600250656134,Medium,Verified,2026-08-12,True
+New York,USA,356,Pothole,40.69418675451906,-73.94586451652265,Low,Verified,2026-08-11,True
+Great Britain,United Kingdom,357,Dangerous intersection,50.37892527329312,-4.161388158480624,Low,Rejected,2026-10-06,True
+Kolkata,India,358,Missing signage,22.549286610902367,88.37804283228459,Medium,Under review,2026-11-04,True
+Great Britain,United Kingdom,359,Dangerous intersection,50.85253361218913,-2.974638416017624,Medium,Submitted,2026-07-30,True
+Great Britain,United Kingdom,360,Missing signage,51.67602346393703,-0.4054911021847485,Medium,Under review,2026-11-07,True
+New York,USA,361,Missing signage,40.70895918984347,-73.77554943860142,Low,Resolved,2026-08-27,True
+Great Britain,United Kingdom,362,Missing signage,51.590008003230786,0.03159422126885536,Medium,Submitted,2026-11-03,True
+Great Britain,United Kingdom,363,Damaged road,53.031168930401854,-2.681388660938133,High,Submitted,2026-07-27,True
+Great Britain,United Kingdom,364,Pothole,51.1241028746475,0.36001282197496465,Medium,Submitted,2026-08-01,True
+Great Britain,United Kingdom,365,Dangerous intersection,51.554906454599454,-0.21746853019482537,Low,Verified,2026-08-24,True
+Chicago,USA,366,Dangerous intersection,41.766227362802304,-87.58478374440502,Low,Submitted,2026-09-10,True
+Great Britain,United Kingdom,367,Pothole,51.827110789434144,-4.146585162142742,High,Verified,2026-10-20,True
+Great Britain,United Kingdom,368,Missing signage,51.52589093551464,-0.21617501087942212,Low,Rejected,2026-11-05,True
+Great Britain,United Kingdom,369,Missing signage,50.509529140062256,-3.5511475249279623,Low,Resolved,2026-08-19,True
+Chicago,USA,370,Damaged road,41.890139441199516,-87.63574009835399,Medium,Submitted,2026-11-06,True
+Great Britain,United Kingdom,371,Missing signage,51.099467351274775,-0.19818569219801274,Medium,Submitted,2026-10-22,True
+Great Britain,United Kingdom,372,Damaged road,50.372825746070205,-4.387697949267596,Low,Submitted,2026-08-16,True
+Great Britain,United Kingdom,373,Dangerous intersection,51.3177309249818,-0.579089884327733,Medium,Resolved,2026-09-15,True
+New York,USA,374,Missing signage,40.641765941376214,-74.00137426354134,Low,Resolved,2026-10-22,True
+New York,USA,375,Missing signage,40.73057851006644,-74.00084965147414,Medium,Submitted,2026-07-21,True
+New York,USA,376,Pothole,40.75031864281261,-73.99460963386258,Medium,Verified,2026-08-24,True
+Great Britain,United Kingdom,377,Missing signage,51.486487472999855,0.007244433732430591,Medium,Submitted,2026-11-06,True
+New York,USA,378,Damaged road,40.734596871714935,-73.85055625026828,Low,Under review,2026-10-20,True
+Great Britain,United Kingdom,379,Pothole,52.580310055189564,-2.1721437376683856,Medium,Verified,2026-07-30,True
+Pune,India,380,Missing signage,18.492000859400324,73.81048522306321,Low,Rejected,2026-07-27,True
+Chicago,USA,381,Missing signage,41.85131801318125,-87.73490157018351,High,Submitted,2026-07-26,True
+Great Britain,United Kingdom,382,Missing signage,56.672248829674025,-3.0044936801650692,Medium,Verified,2026-10-03,True
+Great Britain,United Kingdom,383,Dangerous intersection,52.58657054883352,-0.2751068202749725,Low,Resolved,2026-09-25,True
+Great Britain,United Kingdom,384,Missing signage,51.76804021097327,-4.391672364814324,High,Under review,2026-08-13,True
+Great Britain,United Kingdom,385,Pothole,57.4608006331452,-1.9987739204108659,Low,Rejected,2026-10-25,True
+New York,USA,386,Missing signage,40.67273016128401,-73.90927877388367,Low,Under review,2026-10-07,True
+New York,USA,387,Damaged road,40.670952260984734,-73.97666419683702,High,Submitted,2026-10-21,True
+Great Britain,United Kingdom,388,Pothole,51.13660999523049,-0.9775567419522186,Medium,Under review,2026-11-12,True
+Great Britain,United Kingdom,389,Missing signage,51.39603731295293,-0.10538348711099696,Medium,Under review,2026-11-08,True
+Great Britain,United Kingdom,390,Missing signage,52.63583770512738,1.5393139722608034,High,Verified,2026-10-24,True
+Chicago,USA,391,Missing signage,41.74685444113871,-87.71957874010714,High,Submitted,2026-10-06,True
+New York,USA,392,Pothole,40.6508418697732,-73.88469225985656,Low,Submitted,2026-08-08,True
+Great Britain,United Kingdom,393,Damaged road,52.57380901668334,-1.8250115566558096,High,Submitted,2026-10-30,True
+Great Britain,United Kingdom,394,Dangerous intersection,51.516406230793855,-0.12251117516211918,High,Submitted,2026-10-02,True
+Great Britain,United Kingdom,395,Damaged road,53.25265880527325,-0.508142117227637,High,Submitted,2026-08-02,True
+New York,USA,396,Dangerous intersection,40.813589415799505,-73.92219924904488,Medium,Verified,2026-08-20,True
+New York,USA,397,Pothole,40.63678642626737,-74.13432396604425,Low,Under review,2026-08-08,True
+Great Britain,United Kingdom,398,Dangerous intersection,53.4202652099267,-1.3357332670815123,Medium,Resolved,2026-10-21,True
+Chicago,USA,399,Damaged road,41.917158118134275,-87.68854697690863,Medium,Resolved,2026-07-19,True
+New York,USA,400,Dangerous intersection,40.83953144257129,-73.86142698596512,Low,Resolved,2026-09-21,True
+Great Britain,United Kingdom,401,Pothole,51.41524116154711,-0.30132764136256673,Medium,Resolved,2026-10-19,True
+New York,USA,402,Pothole,40.74224954530483,-73.87422277763842,Low,Rejected,2026-09-07,True
+Great Britain,United Kingdom,403,Pothole,51.65357934080176,-0.08829872402140043,High,Verified,2026-11-09,True
+Great Britain,United Kingdom,404,Missing signage,53.54151560755649,-2.4110523718326022,Medium,Under review,2026-08-13,True
+New York,USA,405,Pothole,40.72169471326326,-73.98130572908346,Low,Under review,2026-08-16,True
+Chicago,USA,406,Pothole,41.76437272344498,-87.69058447184293,Low,Submitted,2026-07-23,True
+Great Britain,United Kingdom,407,Missing signage,50.371923847629645,-4.528338523791556,High,Submitted,2026-10-12,True
+Chicago,USA,408,Dangerous intersection,41.8936456514348,-87.63752405951966,Low,Rejected,2026-09-29,True
+Chicago,USA,409,Pothole,41.750661249165724,-87.64702630133766,Low,Verified,2026-09-28,True
+Great Britain,United Kingdom,410,Pothole,51.112116502124394,0.16851946102667753,Medium,Resolved,2026-10-08,True
+New York,USA,411,Missing signage,40.750703665654434,-73.97270269829924,Medium,Resolved,2026-08-04,True
+Chicago,USA,412,Missing signage,41.961248420722384,-87.68736338311284,Low,Resolved,2026-10-18,True
+Chicago,USA,413,Missing signage,41.8304194002608,-87.7230115237365,Low,Under review,2026-10-08,True
+New York,USA,414,Missing signage,40.78141463424197,-73.82556503914395,High,Submitted,2026-08-21,True
+Great Britain,United Kingdom,415,Missing signage,51.612810127782474,-1.726006205059948,Medium,Under review,2026-08-31,True
+Great Britain,United Kingdom,416,Damaged road,51.56016260662897,-0.08468337092537205,Low,Rejected,2026-08-24,True
+Great Britain,United Kingdom,417,Damaged road,53.70025788279161,-1.5062066729762689,High,Submitted,2026-10-31,True
+New York,USA,418,Dangerous intersection,40.65581228535522,-73.96350243265722,Medium,Verified,2026-10-11,True
+Chicago,USA,419,Dangerous intersection,41.936193007680416,-87.6687233252002,Medium,Submitted,2026-09-05,True
+Chicago,USA,420,Damaged road,41.91074400699867,-87.66035674686904,Medium,Resolved,2026-10-19,True
+Great Britain,United Kingdom,421,Dangerous intersection,51.490616750382316,0.26795520125361566,High,Resolved,2026-09-27,True
+New York,USA,422,Missing signage,40.68449541489239,-73.93810195386878,Medium,Submitted,2026-11-01,True
+New York,USA,423,Pothole,40.759472263466584,-73.85353912154824,High,Verified,2026-09-11,True
+Chicago,USA,424,Damaged road,41.902537410293554,-87.72697098301404,Medium,Rejected,2026-10-29,True
+Great Britain,United Kingdom,425,Missing signage,53.71663490926705,-2.659233341194205,Medium,Under review,2026-09-11,True
+Great Britain,United Kingdom,426,Pothole,51.519830274587065,-0.10033696024439757,High,Under review,2026-08-13,True
+New York,USA,427,Pothole,40.712504436772775,-73.90505998805463,Medium,Under review,2026-10-14,True
+Great Britain,United Kingdom,428,Damaged road,50.386930600721826,-4.0356659851528125,Medium,Under review,2026-08-09,True
+Chicago,USA,429,Dangerous intersection,41.98477005443695,-87.77638018379689,Low,Verified,2026-08-09,True
+Chicago,USA,430,Damaged road,41.707242371527066,-87.70056353380382,Medium,Submitted,2026-09-17,True
+New York,USA,431,Dangerous intersection,40.707148176148685,-74.00629311336051,Low,Verified,2026-08-26,True
+Chicago,USA,432,Damaged road,41.88625400067279,-87.70659945917825,Medium,Under review,2026-08-12,True
+Chicago,USA,433,Missing signage,41.99724758918433,-87.71811788959795,Low,Rejected,2026-09-11,True
+Chicago,USA,434,Missing signage,41.954120201041505,-87.70753559015044,Medium,Under review,2026-09-10,True
+New York,USA,435,Damaged road,40.756411402435184,-73.99833823365749,Medium,Rejected,2026-10-04,True
+Chicago,USA,436,Damaged road,41.78789165743711,-87.5870102572193,Low,Verified,2026-09-01,True
+Great Britain,United Kingdom,437,Dangerous intersection,51.04486957678299,-0.43496078509910446,High,Rejected,2026-07-21,True
+Great Britain,United Kingdom,438,Pothole,53.60702487142658,-2.5842560981626153,Low,Rejected,2026-07-31,True
+Chicago,USA,439,Dangerous intersection,41.88683222195868,-87.73840486845558,Medium,Resolved,2026-10-10,True
+Great Britain,United Kingdom,440,Pothole,52.50890731330659,-1.9040160181097325,High,Under review,2026-09-18,True
+Great Britain,United Kingdom,441,Dangerous intersection,51.49164922609455,-0.5432352127753716,Medium,Verified,2026-10-01,True
+Chicago,USA,442,Missing signage,41.66624509313764,-87.55921188668356,Medium,Submitted,2026-09-10,True
+Great Britain,United Kingdom,443,Damaged road,52.79512827847063,-1.6247087993580809,Low,Rejected,2026-08-17,True
+Great Britain,United Kingdom,444,Damaged road,51.17406725303875,-1.336408511336544,Low,Resolved,2026-07-16,True
+Chicago,USA,445,Pothole,41.92192774940961,-87.64394797763843,Medium,Under review,2026-09-07,True
+New York,USA,446,Pothole,40.84511595173641,-73.91425711874211,Medium,Resolved,2026-07-17,True
+New York,USA,447,Dangerous intersection,40.67652490164729,-73.88449778525013,Low,Verified,2026-08-05,True
+Great Britain,United Kingdom,448,Damaged road,51.524106688554234,-0.03434109540561985,Medium,Submitted,2026-08-31,True
+Great Britain,United Kingdom,449,Dangerous intersection,50.85268936032464,-0.39784704004286214,High,Under review,2026-09-05,True
+Chicago,USA,450,Pothole,41.677886268731875,-87.65767017746455,Medium,Submitted,2026-09-14,True
+Great Britain,United Kingdom,451,Damaged road,54.599009764882474,-1.2968071576459126,Low,Verified,2026-11-09,True
+Chicago,USA,452,Damaged road,41.97571930040477,-87.65536446583532,Low,Resolved,2026-11-11,True
+Great Britain,United Kingdom,453,Dangerous intersection,51.747355331745524,-3.358386073505437,Low,Submitted,2026-09-07,True
+Great Britain,United Kingdom,454,Pothole,53.059271998395396,-1.574931559580978,High,Submitted,2026-09-19,True
+Great Britain,United Kingdom,455,Dangerous intersection,56.000721378430235,-2.8837340890088075,High,Submitted,2026-10-28,True
+Chicago,USA,456,Damaged road,41.88147010351171,-87.68580179265979,Low,Verified,2026-10-09,True
+Chicago,USA,457,Dangerous intersection,41.79765696141085,-87.70747571447912,Low,Rejected,2026-07-27,True
+New York,USA,458,Missing signage,40.56119951375304,-74.16688438239719,High,Rejected,2026-09-20,True
+Chicago,USA,459,Pothole,41.75623357643039,-87.6496956030307,Medium,Verified,2026-11-05,True
+Great Britain,United Kingdom,460,Damaged road,51.460465600336114,0.04895728457568435,Medium,Under review,2026-10-15,True
+Chicago,USA,461,Pothole,41.73604696149242,-87.62938617980748,High,Resolved,2026-09-23,True
+Chicago,USA,462,Dangerous intersection,41.91718960013642,-87.67839959983257,Medium,Submitted,2026-07-17,True
+Chicago,USA,463,Damaged road,41.90043518955264,-87.61937259612436,Medium,Under review,2026-09-12,True
+New York,USA,464,Damaged road,40.678967381477555,-73.97332854756598,High,Verified,2026-10-15,True
+Great Britain,United Kingdom,465,Pothole,55.70665630189219,-2.4562332615164193,Medium,Rejected,2026-08-22,True
+Chicago,USA,466,Pothole,41.95306558641431,-87.76719267125722,Medium,Under review,2026-08-25,True
+Great Britain,United Kingdom,467,Dangerous intersection,52.5756513065921,-2.094036387765099,Low,Rejected,2026-10-22,True
+Great Britain,United Kingdom,468,Damaged road,51.61603566241463,-0.08322340068216871,Medium,Under review,2026-11-09,True
+Chicago,USA,469,Damaged road,41.79750893589479,-87.72326442695713,High,Rejected,2026-11-01,True
+Great Britain,United Kingdom,470,Pothole,51.28121240800695,0.004168777696255558,Medium,Verified,2026-09-25,True
+Great Britain,United Kingdom,471,Dangerous intersection,55.93688018727006,-3.4347783787544435,Low,Under review,2026-08-15,True
+Chicago,USA,472,Dangerous intersection,41.85463291228469,-87.64670520876598,Medium,Verified,2026-07-16,True
+Chicago,USA,473,Pothole,41.947624630467345,-87.72774191044938,High,Verified,2026-10-13,True
+Great Britain,United Kingdom,474,Dangerous intersection,51.271717937110644,0.5283455187658463,Medium,Under review,2026-09-27,True
+Bengaluru,India,475,Missing signage,12.909563957998392,77.60320172621586,Medium,Submitted,2026-09-02,True
+New York,USA,476,Damaged road,40.549628614305526,-74.15074853626624,High,Submitted,2026-11-01,True
+Great Britain,United Kingdom,477,Damaged road,51.43586587381875,-0.11213031244067045,Medium,Verified,2026-08-10,True
+Great Britain,United Kingdom,478,Dangerous intersection,53.260442371941586,-2.5753205625295146,Low,Rejected,2026-08-23,True
+Great Britain,United Kingdom,479,Damaged road,51.890507635771016,-0.33248506127637784,Medium,Submitted,2026-11-07,True
+New York,USA,480,Dangerous intersection,40.58512573104308,-73.95207338527779,Medium,Submitted,2026-08-02,True
+Great Britain,United Kingdom,481,Missing signage,53.438081975061124,-2.8846094809309437,Medium,Verified,2026-07-22,True
+Great Britain,United Kingdom,482,Missing signage,51.444786190199615,-0.2947516777967481,High,Submitted,2026-11-07,True
+Chicago,USA,483,Damaged road,41.849622602084736,-87.72468692252473,Medium,Under review,2026-10-15,True
+Great Britain,United Kingdom,484,Missing signage,51.49078005324405,-0.13751322813331282,High,Resolved,2026-08-30,True
+Bengaluru,India,485,Pothole,12.956581673372042,77.56520053825204,High,Under review,2026-09-27,True
+Chicago,USA,486,Missing signage,41.78515560763339,-87.73343215221274,High,Resolved,2026-11-03,True
+New York,USA,487,Dangerous intersection,40.669450801645695,-73.92906237338582,Medium,Rejected,2026-08-01,True
+Great Britain,United Kingdom,488,Dangerous intersection,51.79594614853505,-0.8924848898486879,High,Rejected,2026-08-09,True
+New York,USA,489,Missing signage,40.60751346378597,-73.9620521346689,Low,Under review,2026-10-21,True
+Great Britain,United Kingdom,490,Pothole,55.023679564949624,-1.6226805090950422,Medium,Verified,2026-08-31,True
+Great Britain,United Kingdom,491,Damaged road,51.90362575504554,-0.20002166844704805,Medium,Under review,2026-10-08,True
+Great Britain,United Kingdom,492,Damaged road,54.56470195007915,-1.207393468610535,Medium,Resolved,2026-08-06,True
+New York,USA,493,Damaged road,40.78653404821042,-73.82402147791554,High,Verified,2026-09-12,True
+New York,USA,494,Damaged road,40.800152739836676,-73.9530931813103,Medium,Verified,2026-07-22,True
+Chicago,USA,495,Pothole,41.96481581162285,-87.73882674053347,Medium,Submitted,2026-08-17,True
+New York,USA,496,Missing signage,40.74430819168401,-73.93006359326941,Low,Under review,2026-08-15,True
+Great Britain,United Kingdom,497,Damaged road,51.55944428589684,-0.07436914026122167,High,Rejected,2026-11-02,True
+Chicago,USA,498,Missing signage,41.91876398538669,-87.7858068874436,Low,Resolved,2026-08-09,True
+Great Britain,United Kingdom,499,Dangerous intersection,51.46695113145209,-0.09053330892954875,Medium,Under review,2026-09-14,True
+Great Britain,United Kingdom,500,Pothole,52.556596478582705,-1.9116734942858267,Low,Verified,2026-09-22,True
