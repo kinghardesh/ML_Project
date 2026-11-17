@@ -16,3 +16,6 @@ data/processed/uploads/
 # logs
 reports/run_log.txt
 *.log
+
+# demo requests collected by the app (personal data)
+data/processed/demo_requests.csv
