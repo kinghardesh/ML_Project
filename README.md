@@ -11,7 +11,7 @@ python -m venv .venv
 .venv\Scripts\python -m pip install -r requirements.txt
 .venv\Scripts\python -m streamlit run app/raksha.py
 ```
-Open http://localhost:8501. The app is laid out as a story for presenting:
+Open https://raksha1.streamlit.app/. The app is laid out as a story for presenting:
 Home → Risk map → Near-miss prediction → How it works → Report a hazard → Authority triage → Crash analytics.
 
 ## Full pipeline
